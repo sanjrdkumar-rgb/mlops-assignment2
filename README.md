@@ -42,8 +42,7 @@ https://huggingface.co/sanjay-mlops/sanjay-bert-model
 
 ## W&B Dashboard Link
 
-PASTE_YOUR_WANDB_LINK_HERE
-
+https://wandb.ai/sanjrd-kumar-iit-jodhpur-/mlops-assignment2
 ---
 
 ## Files Included
